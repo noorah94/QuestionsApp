@@ -7,7 +7,7 @@
 
 ## صور التطبيق:
 
-<img src="q.gif" width="200" height="400">
+<img src="q.gif" width="300" height="570">
 
 # Quiz App (iOS & android)
 
