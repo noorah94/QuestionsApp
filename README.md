@@ -1,4 +1,4 @@
-# تطبيق بيانو بسيط (أيفون و أندرويد)
+# تطبيق كويز (أيفون و أندرويد)
 
 ## الوصف:
 
@@ -9,7 +9,7 @@
 
 <img src="q.gif" width="200" height="400">
 
-# Simple Piano App (iOS & android)
+# Quiz App (iOS & android)
 
 ## Description:
 
@@ -19,4 +19,4 @@
 
 ## Application images:
 
-<img src="q.gif" width="200" height="400">
+<img src="q.gif" width="300" height="700">
