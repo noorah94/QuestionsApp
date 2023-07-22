@@ -19,4 +19,4 @@
 
 ## Application images:
 
-<img src="q.gif" width="300" height="600">
+<img src="q.gif" width="300" height="570">
