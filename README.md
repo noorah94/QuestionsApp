@@ -1,4 +1,4 @@
-# تطبيق كويز (أيفون و أندرويد)
+# تطبيق أسئلة (أيفون و أندرويد)
 
 ## الوصف:
 
@@ -9,7 +9,7 @@
 
 <img src="q.gif" width="300" height="570">
 
-# Quiz App (iOS & android)
+# Questions App (iOS & Android)
 
 ## Description:
 
